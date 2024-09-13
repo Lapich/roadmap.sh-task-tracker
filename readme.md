@@ -43,3 +43,7 @@ Changes the task's status with the specified `ID`.
 python task-cli.py list [status]
 ```
 Lists all tasks with given `status`. If none given, list all.
+
+## Related
+
+Made for [roadmap.sh](https://roadmap.sh/projects/task-tracker) as training project.
